@@ -56,7 +56,7 @@ Subject to applicable law, you may have rights to access, rectify, erase, restri
 To request information or deletion, contact info@ao-t.de. Because MeterMatch has no user accounts, we can only locate a stored record if you give us details such as the date and approximate time of the request. In most cases no record exists: successful requests are not stored, and records of failed requests are deleted automatically after at most 28 days.
 
 ## 11. Children
-MeterMatch is designed for professional use and is intended for adults aged 18 and over. It is not directed to children.
+MeterMatch is designed for professional use and is intended for users aged 16 and over. It is not directed to children.
 
 ## 12. Changes to this policy
 We may update this policy to reflect changes to MeterMatch, its service providers, or legal requirements. The updated version will be posted at the publicly accessible Privacy Policy URL with a revised effective date.
