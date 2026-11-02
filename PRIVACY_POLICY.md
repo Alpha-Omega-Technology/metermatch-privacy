@@ -71,4 +71,4 @@ We may update this policy to reflect changes to MeterMatch, its service provider
 **Email:** info@ao-t.de  
 **Phone:** +49 36082 8477-0  
 **Website:** https://www.alpha-omega-technology.de  
-**Privacy Policy URL:** https://porkare.github.io/metermatch-privacy/
+**Privacy Policy URL:** https://alpha-omega-technology.github.io/metermatch-privacy/
